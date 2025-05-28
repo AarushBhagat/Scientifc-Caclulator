@@ -36,7 +36,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone https://github.com/AarushBhagat/Scientifc-Caclulator
     ```
 2.  **Navigate to the project directory:**
     ```sh
@@ -50,7 +50,7 @@ To get a local copy up and running, follow these simple steps.
 ## 🌐 Live Demo
 
 Check out the live version of the calculator here:
-**[View Live Demo](https://AarushBhagat.github.io/Scintific-Calculator/)**
+**[View Live Demo](https://github.com/AarushBhagat/Scientifc-Caclulator)**
 
 _**Tip:** You can easily deploy your own version for free using [GitHub Pages](https://pages.github.com/)._
 
@@ -60,7 +60,7 @@ _**Tip:** You can easily deploy your own version for free using [GitHub Pages](h
 
 **Aarush Bhagat**
 
--   GitHub: https://github.com/your-AarushBhagat
+-   GitHub: https://github.com/AarushBhagat
 -   LinkedIn: https://www.linkedin.com/in/aarush-bhagat-871237289/
 
 ---
